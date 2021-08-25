@@ -2,10 +2,10 @@
 # Smart-Queue-Shoping-Using-RFID-System
 ## 2nd Year Group Project (sem 1)
 
-<p> Research Paper is Published in Springer </p>
+<h4>Research Paper is Published in Springer <br>
 Machine Learning and Information Processing <br>
 Proceedings of ICMLIP 2020<br>
-Chapter 1  Smart Queue Shopping Using RFID System<br>
+Chapter 1  Smart Queue Shopping Using RFID System<br></h4>
 
 
 <br>
